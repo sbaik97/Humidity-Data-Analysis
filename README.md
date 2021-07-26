@@ -2,7 +2,7 @@
 Using matplotlib, graphs were plotted in python using matplotlib to demonstrate the trends of Relative humidity % (RH%) over time, RH sensor temperature over time, and dewpoint temperature over time using data from a csv file. 
 
 # RH% 
-![RH_change_over_time](/Humidity_Analysis_Graphs/RH%_change_over_time.png)  
+![RH_change_over_time](Humidity_Analysis_Graphs/RH%25_change_over_time.png)  
 Graph showing the the changes in RH% over time with data obtained from csv file. 
 
 # RH Sensor Temperature 
